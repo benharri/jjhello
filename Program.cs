@@ -1,3 +1,14 @@
 ﻿// a hello world program
 // this is another comment
-Console.WriteLine("Hello, World!");
+PrintHello();
+PrintGoodbye();
+
+void PrintHello()
+{
+    Console.WriteLine("Hello world");
+}
+void PrintGoodbye()
+{
+    Console.WriteLine("Goodbye world");
+}
+
