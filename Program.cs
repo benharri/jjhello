@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// a hello world program
 Console.WriteLine("Hello, World!");
